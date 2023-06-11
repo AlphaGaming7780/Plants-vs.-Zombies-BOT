@@ -1,0 +1,6 @@
+train: images/train  # train images (relative to 'path')
+val: images/valid  # val images (relative to 'path')
+test: images/test # test images (optional)
+
+nc: 13
+names: ['Flag Zombie', 'Garden', 'House Name', 'Mower', 'Next Level', 'Peashooter', 'Peashooter Seed', 'Reward', 'Seed Panel', 'Sun', 'Sunflower', 'Sunflower Seed', 'Zombie']
