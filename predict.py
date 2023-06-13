@@ -26,7 +26,7 @@ else :
     deviceUsed = 'cpu'
 
 print("Loading Model ...")
-model = YOLO('plants_vs. zombies v2.pt')
+model = YOLO('plants_vs. zombies v6.pt')
 
 print("Start Predict...")
 # visualize your prediction

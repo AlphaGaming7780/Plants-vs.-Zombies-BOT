@@ -1,0 +1,6 @@
+train: images/train  # train images (relative to 'path')
+val: images/valid  # val images (relative to 'path')
+test: images/test # test images (optional)
+
+nc: 21
+names: ['BTG Button', 'Flag Zombie', 'Garden', 'House Name', 'Main Menu Button', 'Menu Button', 'Mower', 'Newspaper Zombie', 'Next Level', 'Pause Menu', 'Peashooter', 'Peashooter Seed', 'Restart Level Button', 'Resume Button', 'Reward', 'Seed Panel', 'Stop Menu', 'Sun', 'Sunflower', 'Sunflower Seed', 'Zombie']

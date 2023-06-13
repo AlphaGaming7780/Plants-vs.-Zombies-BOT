@@ -1,0 +1,30 @@
+// Fast = 7.5 | Slow = 30 | Very Slow = 50
+{
+    "Peashooter":{
+        "Name":"Peashooter",
+        "Health": 300,
+        "Damage": 20,
+        "Attack_Interval": 1.425,
+        "Cost":100,
+        "Recharge":7.5,
+        "Range": 9
+    },
+    "Sunflower":{
+        "Name":"Sunflower",
+        "Health": 300,
+        "Damage": 0,
+        "Attack_Interval": 24.25,
+        "Cost":50,
+        "Recharge":7.5,
+        "Range": 0
+    },
+    "Cherry Bomb":{
+        "Name":"Cherry Bomb",
+        "Health": 9999,
+        "Damage": 1800,
+        "Attack_Interval": 1.2,
+        "Cost":150,
+        "Recharge":50,
+        "Range": 2
+    }
+}
